@@ -132,3 +132,7 @@ dmypy.json
 .pyre/
 
 nohup.out
+
+.idea
+
+db.sqlite3
